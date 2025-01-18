@@ -1,3 +1,6 @@
+# Ignorar carpetas privadas de proyectos
 /Git/nbproject/private/
 /Git2/nbproject/private/
-**/.Git2.java
+
+# Ignorar un archivo especifico en cualquier lugar
+**/Git/src/git/Git2.java
