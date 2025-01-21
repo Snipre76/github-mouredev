@@ -2,6 +2,8 @@
 package git;
 
 public class Git3 {
-    int Danny;
+    public static void main(String[] args) {
+        System.out.println("Hello git 3 ! V2");
+    }
     
 }
